@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cache File
+# Format: key\ttype\tsize\tlocation\timestamp\tstatus\tmime\encoding\terrors\tredirect\trobot\tdepth\towner
+#
+1\turl\tsuccess\t7853\thttp://fuch.ai/\tMon, 21 Jul 2025 09:33:58 +0100\t200\ttext/html; charset=UTF-8\tidentity\t0\t\t0\t0\t0
+3\turl\tsuccess\t8740\thttp://fuch.ai/css/style.css\tMon, 21 Jul 2025 09:33:58 +0100\t200\ttext/css; charset=UTF-8\tidentity\t0\t\t0\t\t0
