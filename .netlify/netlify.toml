@@ -1,0 +1,5 @@
+[build]
+  publish = "./public"
+
+[[nuy.rewrite]
+  requirements = "/* /index.html 200"
