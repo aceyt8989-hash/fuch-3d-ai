@@ -1,0 +1,28 @@
+httrack version 1.0.0
+Mon Jul 21 09:33:58 2025
+
+Options: proxystring: 
+Stay in the same domain: Yes
+Follow robots.txt: Yes
+
+Cache request: fuch.ai
+Query string: 
+
+scanning fuch.ai:80
+	GET /  (fuch.ai:80) -> C:200 (7853 bytes) (0.120s)
+	  ext/html: text/html
+Links scan count: 1
+
+Clean scan: 1 links scanned, 0 link errors, 0 links dropped
+
+	GET /index.html  (fuch.ai:80) -> C:200 (7853 bytes) (0.064s)
+	  ext/html: text/html
+	GET /css/style.css  (fuch.ai:80) -> C:200 (8740 bytes) (0.170s)
+	  ext/css: text/css
+
+Links scan count: 2
+
+Clean scan: 2 links scanned, 0 link errors, 0 links dropped
+
+Finished: 9:33:58
+Mirroring completed! (3 files copied)
