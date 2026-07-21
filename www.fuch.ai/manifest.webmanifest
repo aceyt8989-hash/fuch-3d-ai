@@ -1,0 +1,21 @@
+{
+  "name": "FUCH.AI",
+  "short_name": "FUCH",
+  "description": "AI-Powered Sector Solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c0c",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
